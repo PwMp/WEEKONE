@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-poppins: Poppins;
+  --font-inter: Inter;
+
+  /* font sizes */
+  --font-size-mid: 17px;
+  --font-size-5xl: 24px;
+  --font-size-base: 16px;
+
+  /* Colors */
+  --color-black: #000;
+  --color-gray: rgba(16, 16, 19, 0);
+  --color-white: #fff;
+  --color-whitesmoke: #eeecec;
+  --color-gold: #f7de3f;
+
+  /* Gaps */
+  --gap-5xl: 24px;
+  --gap-13xl: 32px;
+
+  /* Paddings */
+  --padding-5xl: 24px;
+  --padding-23xl: 42px;
+  --padding-3xs: 10px;
+}
